@@ -4,13 +4,15 @@
   "description": "",
   "main": "class-based-pop.js",
   "scripts": {
-    "test": "jest --testTimeout=30000"
+    "test": "npx jest --testTimeout=30000"
   },
   "keywords": [],
   "author": "Sandeep Kumar",
   "license": "ISC",
   "devDependencies": {
     "jest": "^26.0.1",
-    "webdriverio": "^6.1.14"
+    "webdriverio": "^6.1.14",
+    "devtools": "^6.1.14",
+    "puppeteer": "^3.2.0"
   }
 }
