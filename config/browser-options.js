@@ -2,7 +2,6 @@ browserOptions =
 {
     logLevel: 'silent',
         capabilities: {
-            automationProtocol: 'devtools',
             browserName: 'chrome',
             'goog:chromeOptions': {
                 // to run chrome headless the following flags are required
