@@ -12,7 +12,6 @@
   "devDependencies": {
     "jest": "^26.0.1",
     "webdriverio": "^6.1.14",
-    "devtools": "^6.1.14",
-    "puppeteer": "^3.2.0"
+    "chromedriver": "83.0.0"
   }
 }
