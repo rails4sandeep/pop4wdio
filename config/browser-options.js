@@ -4,7 +4,7 @@ browserOptions =
         capabilities: {
             browserName: 'chrome',
             'goog:chromeOptions': {
-            args: ['--disable-setuid-sandbox --no-sandbox']
+            args: ['--disable-setuid-sandbox', '--no-sandbox']
             }
     }
 };
