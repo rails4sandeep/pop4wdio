@@ -1,6 +1,6 @@
 browserOptions =
 {
-    logLevel: 'trace',
+    logLevel: 'silent',
         capabilities: {
     browserName: 'chrome'
 }
