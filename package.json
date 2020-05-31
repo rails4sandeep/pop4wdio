@@ -4,7 +4,7 @@
   "description": "",
   "main": "class-based-pop.js",
   "scripts": {
-    "test": "jest ----testTimeout=30000"
+    "test": "jest --testTimeout=30000"
   },
   "keywords": [],
   "author": "Sandeep Kumar",
