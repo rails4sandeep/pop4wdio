@@ -1,0 +1,15 @@
+{
+  "name": "pop4wdio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class-based-pop.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [],
+  "author": "Sandeep Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^6.1.14"
+  }
+}
