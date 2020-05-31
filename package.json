@@ -10,7 +10,9 @@
   "author": "Sandeep Kumar",
   "license": "ISC",
   "devDependencies": {
-    "webdriverio": "^6.1.14",
-    "jest": "^26.0.1"
+    "devtools": "^6.1.14",
+    "jest": "^26.0.1",
+    "puppeteer": "^3.2.0",
+    "webdriverio": "^6.1.14"
   }
 }
