@@ -7,7 +7,7 @@ const duckDuckGo = require('../pop/duck-duck-go-obj');
 describe('Duck Duck Go', () => {
 
     beforeEach(async () => {
-        timeout = 30000;
+        setTimeout(30000);
         browser = await session.newSession();
         page = new Page(browser);
     });
