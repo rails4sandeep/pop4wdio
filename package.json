@@ -4,12 +4,13 @@
   "description": "",
   "main": "class-based-pop.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "keywords": [],
   "author": "Sandeep Kumar",
   "license": "ISC",
   "devDependencies": {
-    "webdriverio": "^6.1.14"
+    "webdriverio": "^6.1.14",
+    "jest": "^26.0.1"
   }
 }
